@@ -1,1 +1,1 @@
-# HoffmanCompression
+# HuffmanCompression
